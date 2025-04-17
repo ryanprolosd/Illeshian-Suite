@@ -9,5 +9,9 @@ The Illeshian Suite is easy to learn, introduces new keywords, and leverages a r
 - **[Illeshian Compiler](https://github.com/ravenleeblack/Illeshian)**: Translates Illeshian source code into Seedling source code.
 - **[Seedling Assembler](https://github.com/ravenleeblack/Seedling)**: Converts Seedling source code into either nasm or assembles into binary as output.
 
+- **[Scope Table](https://github.com/ravenleeblack/Scope_Table)**: A new symbol table derived from a hash table that eliminates collisons and handles Illeshian compiler scope and Seeding Assembler scope. It will be a library for both.
+- **[Syntax Formatters](https://github.com/ravenleeblack/Syntax_Formatters)**: These are 2 vscode extentions that allow color synatax for Illeshian file .ill and seedling files .seed.
+  
+
 This repository serves as the central hub for the Illeshian Suite. Each module is actively developed in its own repository, linked above. Explore the suite, try it out, and feel free to contribute or share feedback to help shape the future of Illeshian!
 
