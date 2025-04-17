@@ -7,9 +7,9 @@ The Illeshian Suite is easy to learn, introduces new keywords, and leverages a r
 - **[Illeshian Driver](https://github.com/ravenleeblack/Illeshian_Driver)**: Manages the compilation workflow and coordinates the Illeshain suite modules.
 - **[Illeshian Runtime Processor](https://github.com/ravenleeblack/IRP)**: Manages runtime execution by preprocessing and optimizing.
 - **[Illeshian Compiler](https://github.com/ravenleeblack/Illeshian)**: Translates Illeshian source code into Seedling source code.
-- **[Seedling Assembler](https://github.com/ravenleeblack/Seedling)**: Converts Seedling source code into either nasm or assembles into binary as output.
-- **[Scope Table](https://github.com/ravenleeblack/Scope_Table)**: A collision-free symbol table library for Illeshian and Seedling scoping.
-- **[Syntax Formatters](https://github.com/ravenleeblack/Syntax_Formatters)**: VS Code extensions for syntax highlighting of .ill and .seed files.
+- **[Seedling Assembler](https://github.com/ravenleeblack/Seedling)**: Converts Seedling source code into either nasm or Assembles into binary as output.
+- **[Scope Table](https://github.com/ravenleeblack/Scope_Table)**: A collision-free symbol table library for inserting and searching both Illeshian and Seedling scopes..
+- **[Syntax Formatters](https://github.com/ravenleeblack/Syntax_Formatters)**: VS Code extensions that allows syntax highlighting of .ill and .seed files.
   
 
 This repository serves as the central hub for the Illeshian Suite. Each module is actively developed in its own repository, linked above. Explore the suite, try it out, and feel free to contribute or share feedback to help shape the future of Illeshian!
